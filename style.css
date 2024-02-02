@@ -1,0 +1,258 @@
+.inbox{
+    /* background-color: aqua; */
+    padding: 150px 0px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.548);
+
+}
+.ww{
+    border: 3px solid;
+border-radius: 50%;
+}
+.nn{
+    border: 3px solid;
+border-radius: 50%;
+}
+.inbox1{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    margin: 15px;
+}
+.inbox2{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    margin: 15px;
+    color: white;
+    text-align: center;
+}
+.inbox3{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    margin: 15px;
+    
+}
+.inbox4{
+    /* background-color: antiquewhite; */
+    
+    padding: 150px 0px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.567);
+    
+}
+.inbox5{
+    /* background-color: antiquewhite; */
+    
+    padding: 200px 0px;
+    text-align: center;
+    color: white;
+    
+    
+}
+.inbox6{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    margin: 15px;
+    color: white;
+    text-align: center;
+}
+.inbox7{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    margin: 15px;
+    color: black;
+    text-align: center;
+}
+.inbox8{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    margin: 15px;
+    color: white;
+    text-align: center;
+}
+.inbox9{
+    /* background-color: antiquewhite; */
+    
+    padding: 150px 0px;
+    text-align: center;
+    color: white;
+    
+}
+.inbox10{
+    /* background-color: antiquewhite; */
+    
+    padding: 250px 0px;
+    text-align: center;
+    color: white;
+    
+}
+.inbox11{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    margin: 15px;
+    color: white;
+    text-align: center;
+}
+.inbox12{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    margin: 15px;
+    color: white;
+    text-align: center;
+}
+.inbox13{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    margin: 15px;
+    color: white;
+    text-align: center;
+}
+.inbox14{
+    /* background-color: antiquewhite; */
+    
+    padding: 250px 0px;
+    text-align: center;
+    color: white;
+}
+.inbox15{
+    background-color:rgb(0, 0, 0) ;
+    
+    color: white;
+    background: url(mm.jpg);
+    background-size: cover;
+    background-position: center; 
+    font-weight: bold; 
+    text-align: center; 
+    
+}
+.trans{
+    background-color: rgba(0, 0, 0, 0.67);
+    height: 200px;
+    padding-top: 35px;
+}
+.inbox16{
+    background-color:rgba(0, 0, 0, 0.944) ;
+    min-height: 200px;
+    color: white;
+}
+
+.inbox17{
+    background-color:rgba(0, 0, 0, 0.567) ;
+    height: 200px;
+    color: white;
+}
+
+.inbox18{
+    background-color:rgba(0, 0, 0, 0.629) ;
+    height: 200px;
+    color: white;
+}
+
+    
+    
+    
+    
+.sec1{
+    background: url(pic1.webp);
+    background-size: cover;
+    background-position: center;
+    
+}
+.sec2{
+    background: url(Blacks-57.jpg);
+    background-size: cover;
+    background-position: center;
+    color: black;
+    
+}
+.sec3{
+    background: url(hh.webp);
+    background-size: cover;
+    background-position: center;
+    
+
+}
+.sec4{
+    background: url(food.jpg);
+    background-size: cover;
+    background-position: center;
+    
+
+}
+.sec5{
+    background: url(vvv.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+.sec6{
+    background: url(boo.webp);
+    background-size: cover;
+    background-position: center;   
+}
+.sec7{
+    background: url(avav.avif);
+    background-size: cover;
+    background-position: center;   
+}
+.sec8{
+    background: url(yyyy.jpg);
+    background-size: cover;
+    background-position: center;   
+}
+.sec9{
+    background: url(111.webp);
+    background-size: cover;
+    background-position: center;   
+}
+.sec10{
+    background-color: black;
+    background-position: center;
+}
+    
+.line1{
+    background-color: orange;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.line2{
+    background-color: orange;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.line3{
+    background-color: white;
+    height: 3px;
+    width: 25%;
+    margin: auto;
+    border: 0px;
+}
+.line4{
+    background-color: white;
+    height: 3px;
+    width: 30%;
+    margin: auto;
+    border: 0px;
+}
+.line5{
+    background-color: white;
+    height: 3px;
+    width: 27%;
+    margin: auto;
+    border: 0px;
+}
+.bi1{
+    font-size: 30px;
+}
+
+.trans1{
+    background-color: rgba(0, 0, 0, 0.588);
+}
+.trans2{
+    background-color: rgba(255, 255, 255, 0.607);
+}
+.trans3{
+    background-color: rgba(255, 166, 0, 0.587);
+}
